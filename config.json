@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersalculate",
+        "uuid": 4465999,
+        "checksum": "licxmk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
